@@ -1,0 +1,11 @@
+  
+[
+   {
+      "Repo":"ML-python-tensorflow-mnist-gpu-service",
+      "Tail":"-service"
+   },
+   {
+      "Repo":"ML-python-tensorflow-mnist-gpu-training",
+      "Tail":"-training"
+   }
+]
